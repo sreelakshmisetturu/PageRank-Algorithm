@@ -1,6 +1,5 @@
 #SREELAKSHMI SETTURU
-#800934503
-#ssetturu@uncc.edu
+#sreelakshmisetturu@gmailcom
 import os
 import sys
 reload(sys)
